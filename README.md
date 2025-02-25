@@ -41,7 +41,7 @@ The analyzer recognizes the following keywords and operators:
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/lexical-analyzer.git
+   git clone https://github.com/cosalt/lexical-analyzer.git
    cd lexical-analyzer
    ```
 2. Ensure you have Python installed.
