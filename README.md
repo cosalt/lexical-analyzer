@@ -65,14 +65,3 @@ if x == 5:
 8 52
 ```
 
-## Future Improvements
-- Add support for more complex tokenization, including numbers and string literals.
-- Implement a full lexical analysis with error handling.
-- Provide a structured output format (e.g., JSON, CSV).
-
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements!
-
-## License
-This project is open-source under the MIT License.
-
